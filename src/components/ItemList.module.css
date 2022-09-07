@@ -1,0 +1,22 @@
+.block-item{
+    margin-top: 5px;
+    width: 330px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:aqua;
+    height: 40px;
+}
+.delete-btn{
+    border: none;
+    background: red;
+    color:#fff;
+    height: 35px;
+    width: 40px;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px;
+}
